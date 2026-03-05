@@ -382,7 +382,7 @@ Header Style
   font-weight: 400;
   font-size: 14px;
   text-transform: uppercase;
-  color: #fff;
+  color: #ecebeb;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -406,12 +406,13 @@ Header Style
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fff;
+  color: #3ace1d;
+  opacity: 1;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fff;
+  color: #1faa4d;
   opacity: 1;
 }
 
