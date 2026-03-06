@@ -382,7 +382,7 @@ Header Style
   font-weight: 400;
   font-size: 14px;
   text-transform: uppercase;
-  color: #ecebeb;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -608,7 +608,7 @@ Header Style
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fff;
+  color: #33df08;
 }
 
 @media (max-width: 1200px) {
